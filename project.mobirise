@@ -50,7 +50,8 @@
     "sitemapSwitcher": "on",
     "siteFonts": [],
     "gdpr": "",
-    "сanonical-url": ""
+    "сanonical-url": "",
+    "witsec-white-label": "on"
   },
   "pages": {
     "E-Commerce.html": {
